@@ -1,15 +1,14 @@
-# AppResolverSampleApp
 # AppResolver
 
 Introduction :-
 
-AppResolver library is designed for resolving the needs of opening links to there respective application.
+AppResolver library is designed for resolving the needs of opening links to their respective application.
 
 Uses :-
 This Library can be used for opening different app links and webpages to there respective application.
 
 Current Support :-
-This library currently resolves follwing app links,
+This library currently resolves following app links,
 
 YOUTUBE,
 GPLUS,
@@ -23,7 +22,7 @@ PINTEREST
 Working on expanding this list further.
 
 
-Contributers :-
+Contributors :-
 Amit Rai. :- Linkedin (https://in.linkedin.com/in/amit-rai-75730679)
             GitHub(https://github.com/zenix98)
             
@@ -35,4 +34,7 @@ USE :-
             
             AppResolver.resolve(MainActivity.this, "https://www.youtube.com/user/TEDtalksDirector");
             
-            if the application is available it will open the url in the app else it will open up a app selector dialog which willl ask user to select any of the app to open the link in.
+            if the application is available it will open the url in the app else it will open up a app selector dialog which will ask user to select any of the app to open the link in.
+
+
+
